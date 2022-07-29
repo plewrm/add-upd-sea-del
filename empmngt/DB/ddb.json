@@ -1,0 +1,45 @@
+{
+  "Data": [
+    {
+      "fullname": "Rohit Keshirsagar",
+      "address": "Chennai",
+      "mobile": "9843234532",
+      "emailid": "rksagar@gmail.com",
+      "state": "Kerla",
+      "city": "Chennai",
+      "uLevel": "L1",
+      "roleId": "L1",
+      "creditLimit": "50000",
+      "ASOId": "L1",
+      "yardId": "L1",
+      "BMId": "1234",
+      "yardList": "L1",
+      "employeeJoiningDate": "2020-11-04",
+      "status": "Active",
+      "reportingManager": "Mahesh Jadhav",
+      "password": "Robin@bin!ro#nibor$",
+      "id": 1
+    },
+    {
+      
+      "fullname": "Richard Foncy",
+      "address": "Chennai",
+      "mobile": "9843234532",
+      "emailid": "rksagar@gmail.com",
+      "state": "Kerla",
+      "city": "Chennai",
+      "uLevel": "L1",
+      "roleId": "L1",
+      "creditLimit": "50000",
+      "ASOId": "L1",
+      "yardId": "L1",
+      "BMId": "1234",
+      "yardList": "L1",
+      "employeeJoiningDate": "2020-11-04",
+      "status": "Active",
+      "reportingManager": "Mahesh Jadhav",
+      "password": "Robin@bin!ro#nibor$",
+      "Id": 2
+    }
+  ]
+}

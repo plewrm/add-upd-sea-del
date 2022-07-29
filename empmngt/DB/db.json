@@ -1,0 +1,25 @@
+{
+    "Data":[
+        {
+            "Id": 1,
+            "FullName": "Rohit Keshirsagar",
+            "Address": "Chennai",
+            "Mob": "9843234532",
+            "EmailID": "rksagar@gmail.com",
+            "State": "Kerla",
+            "City": "Chennai",
+            "ULevel": "L1",
+            "RoleId": "L1",
+            "CreditLimit": "50000",
+            "ASOId":"L1",
+            "YardId":"L1",
+            "BMId": "1234",
+            "YardList": "L1",
+            "EmployeeJoiningDate": "2020-11-04",
+            "Status": "Active",
+            "ReportingManager": "Mahesh Jadhav",
+            "Password":"Robin@bin!ro#nibor$"
+
+        }
+    ]
+}
